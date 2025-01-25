@@ -63,8 +63,10 @@
 ###
 
 <br clear="both">
+<p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Mahendrakumar19/Mahendrakumar19/output/snake.svg" alt="Snake animation" />
 
 ###
 
